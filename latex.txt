@@ -1,0 +1,7 @@
+\[-\frac{1}{4}{{({{W}_{\mu \upsilon }})}^{2}}\]
+\[\left\{ \begin{align}
+  & {{W}_{\mu \upsilon }}={{\partial }_{\mu }}W_{\upsilon }^{a}-{{\partial }_{\upsilon }}W_{\mu }^{a}+g{{f}^{abc}}W_{\mu }^{b}W_{\upsilon }^{c} \\ 
+ & W_{\mu }^{1}=\frac{\sqrt{2}}{2}(W_{\mu }^{+}+W_{\mu }^{-}) \\ 
+ & W_{\mu }^{2}=\frac{\sqrt{2}}{2}i(W_{\mu }^{+}-W_{\mu }^{-}) \\ 
+ & W_{\mu }^{3}=\sin \theta {{A}_{\mu }}+\cos \theta {{Z}_{\mu }} \\ 
+\end{align} \right.\]
