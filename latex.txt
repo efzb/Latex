@@ -1,3 +1,6 @@
+%--------
+% 1
+%--------
 \[-\frac{1}{4}{{({{W}_{\mu \upsilon }})}^{2}}\]
 \[\left\{ \begin{align}
   & {{W}_{\mu \upsilon }}={{\partial }_{\mu }}W_{\upsilon }^{a}-{{\partial }_{\upsilon }}W_{\mu }^{a}+g{{f}^{abc}}W_{\mu }^{b}W_{\upsilon }^{c} \\ 
