@@ -14,3 +14,46 @@
 \[\Rightarrow \text{(}{{\partial }_{\mu }}W_{\nu }^{1}-{{\partial }_{\nu }}W_{\mu }^{1}\text{)g}{{W}^{\mu z}}{{W}^{\nu 3}}\]
 \[=\frac{\sqrt{2}}{2}\cdot \frac{\sqrt{2}}{2}ig\left\{ \left[ \left( {{\partial }_{\mu }}W_{\nu }^{+}+{{\partial }_{\mu }}W_{\nu }^{-} \right)-\left( {{\partial }_{\nu }}W_{\mu }^{+}+{{\partial }_{\nu }}W_{\mu }^{-} \right) \right]\text{ }\!\!\times\!\!\text{ (}{{W}^{\nu +}}-{{W}^{\nu -}}\text{) }\!\!\times\!\!\text{ (}{{W}^{\nu 3}}\text{)} \right\}\]
 \[\text{=}-\frac{ig}{2}\left[ \left( {{\partial }_{\mu }}W_{\nu }^{+}-{{\partial }_{\mu }}W_{\nu }^{+} \right){{W}^{\mu -}}{{W}^{\nu 3}}-\left( {{\partial }_{\mu }}W_{\nu }^{-}-{{\partial }_{\mu }}W_{\nu }^{-} \right){{W}^{\mu +}}{{W}^{\nu 3}} \right]\]
+
+%--------
+% Ph2 
+%--------
+\[a,b,c=2\text{,}1,3\]
+\[\text{(}{{\partial }_{\mu }}W_{\nu }^{2}-{{\partial }_{\nu }}W_{\mu }^{2}\text{)}\left( -g \right){{W}^{\mu 1}}{{W}^{\nu 3}}\]
+\[\begin{align}
+  & =\left( -g \right)\frac{\sqrt{2}}{2}\cdot \frac{\sqrt{2}}{2}i\left[ \left( {{\partial }_{\mu }}W_{\nu }^{+}-{{\partial }_{\mu }}W_{\nu }^{-}-{{\partial }_{\nu }}W_{\mu }^{+}+{{\partial }_{\nu }}W_{\mu }^{-} \right)\cdot \left( {{W}^{\mu +}}+{{W}^{\mu -}} \right)_{w}^{v3} \right] \\ 
+ &  \\ 
+\end{align}\]
+\[\begin{align}
+  & =-\frac{ig}{2}\left[ \left( {{\partial }_{\mu }}W_{\nu }^{+}-{{\partial }_{\mu }}W_{\nu }^{+} \right){{W}^{\mu -}}{{W}^{\nu 3}}-\left( {{\partial }_{\mu }}W_{\nu }^{-}-{{\partial }_{\nu }}W_{\mu }^{-} \right){{W}^{\mu +}}{{W}^{\nu 3}} \right] \\ 
+ &  \\ 
+\end{align}\]
+\[\begin{align}
+  & a,b,c=3,1,2 \\ 
+ &  \\ 
+\end{align}\]
+\[\begin{align}
+  & \text{(}{{\partial }_{\mu }}W_{\nu }^{2}-{{\partial }_{\nu }}W_{\mu }^{2}\text{)}\left( -g \right){{W}^{\mu 1}}{{W}^{\nu 2}} \\ 
+ &  \\ 
+\end{align}\]
+\[\begin{align}
+  & =\frac{ig}{2}\left( {{\partial }_{\mu }}W_{\nu }^{3}-{{\partial }_{\nu }}W_{\mu }^{3} \right)\left( {{W}^{\mu +}}+{{W}^{\mu -}} \right)\left( {{W}^{\nu +}}-{{W}^{\nu -}} \right) \\ 
+ &  \\ 
+\end{align}\]
+\[\begin{align}
+  & =\frac{ig}{2}\left( {{\partial }_{\mu }}W_{\nu }^{3}-{{\partial }_{\nu }}W_{\mu }^{3} \right)\left( -{{W}^{\mu +}}{{W}^{\nu -}}+{{W}^{\mu -}}{{W}^{\nu +}} \right) \\ 
+ &  \\ 
+\end{align}\]
+\[\begin{align}
+  & a,b,c=3,2,1 \\ 
+ &  \\ 
+\end{align}\]
+\[\begin{align}
+  & \left( {{\partial }_{\mu }}W_{\nu }^{3}-{{\partial }_{\nu }}W_{\mu }^{3} \right)\left( -g \right){{W}^{\mu z}}{{W}^{\nu 1}} \\ 
+ &  \\ 
+\end{align}\]
+\[\begin{align}
+  & =-\frac{ig}{2}\left( {{\partial }_{\mu }}W_{\nu }^{3}-{{\partial }_{\nu }}W_{\mu }^{3} \right)\left( {{W}^{\mu +}}-{{W}^{\mu -}} \right)\left( {{W}^{\nu +}}+{{W}^{\nu -}} \right) \\ 
+ &  \\ 
+\end{align}\]
+\[=-\frac{ig}{2}\left( {{\partial }_{\mu }}W_{\nu }^{3}-{{\partial }_{\nu }}W_{\mu }^{3} \right)\left( {{W}^{\mu +}}{{W}^{\nu -}}-{{W}^{\mu -}}{{W}^{\nu +}} \right)\]
