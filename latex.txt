@@ -1,3 +1,6 @@
+%--------
+% Ph1 
+%--------
 \[-\frac{1}{4}{{({{W}_{\mu \upsilon }})}^{2}}\]
 \[\left\{ \begin{align}
   & {{W}_{\mu \upsilon }}={{\partial }_{\mu }}W_{\upsilon }^{a}-{{\partial }_{\upsilon }}W_{\mu }^{a}+g{{f}^{abc}}W_{\mu }^{b}W_{\upsilon }^{c} \\ 
@@ -5,3 +8,9 @@
  & W_{\mu }^{2}=\frac{\sqrt{2}}{2}i(W_{\mu }^{+}-W_{\mu }^{-}) \\ 
  & W_{\mu }^{3}=\sin \theta {{A}_{\mu }}+\cos \theta {{Z}_{\mu }} \\ 
 \end{align} \right.\]
+\[\Rightarrow ({{\partial }_{\mu }}W_{\nu }^{a}-{{\partial }_{\nu }}W_{\mu }^{a}+g{{f}^{abc}}W_{\mu }^{b}W_{\mu }^{c})\text{ }\!\!\times\!\!\text{ }({{\partial }^{\mu }}{{W}^{\nu a}}-{{\partial }^{\nu }}{{W}^{\mu a}}+g{{f}^{abc}}{{W}^{\mu b}}{{W}^{\mu c}})\]
+\[\text{(}{{\partial }_{\mu }}W_{\nu }^{a}-{{\partial }_{\nu }}W_{\mu }^{a}\text{)}\cdot g{{f}^{abc}}{{W}^{\mu b}}{{W}^{\nu c}}\]
+\[a,b,c=1,2,3\]
+\[\Rightarrow \text{(}{{\partial }_{\mu }}W_{\nu }^{1}-{{\partial }_{\nu }}W_{\mu }^{1}\text{)g}{{W}^{\mu z}}{{W}^{\nu 3}}\]
+\[=\frac{\sqrt{2}}{2}\cdot \frac{\sqrt{2}}{2}ig\left\{ \left[ \left( {{\partial }_{\mu }}W_{\nu }^{+}+{{\partial }_{\mu }}W_{\nu }^{-} \right)-\left( {{\partial }_{\nu }}W_{\mu }^{+}+{{\partial }_{\nu }}W_{\mu }^{-} \right) \right]\text{ }\!\!\times\!\!\text{ (}{{W}^{\nu +}}-{{W}^{\nu -}}\text{) }\!\!\times\!\!\text{ (}{{W}^{\nu 3}}\text{)} \right\}\]
+\[\text{=}-\frac{ig}{2}\left[ \left( {{\partial }_{\mu }}W_{\nu }^{+}-{{\partial }_{\mu }}W_{\nu }^{+} \right){{W}^{\mu -}}{{W}^{\nu 3}}-\left( {{\partial }_{\mu }}W_{\nu }^{-}-{{\partial }_{\mu }}W_{\nu }^{-} \right){{W}^{\mu +}}{{W}^{\nu 3}} \right]\]
