@@ -1,1 +1,3 @@
-This is the latex txt for physics notes.
+This is the latex txt file for physics notes.
+
+Please upate it once per day.
